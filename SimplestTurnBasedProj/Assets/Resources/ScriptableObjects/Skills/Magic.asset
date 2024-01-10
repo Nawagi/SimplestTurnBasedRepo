@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 112f5dbe7e59b6a41a52be54129b8f02, type: 3}
+  m_Name: Magic
+  m_EditorClassIdentifier: 
+  index: 2
+  skillName: Magic
+  damage: 10
+  manaCost: 5
+  icon: {fileID: 21300000, guid: d61c561215bf7e64aa49e067cf731786, type: 3}
+  iconColor:
+    serializedVersion: 2
+    rgba: 4293997492
+  effect: {fileID: 8945946837657210605, guid: aa349635db5c5734d91207bc642248a2, type: 3}
+  effectTag: Magic
